@@ -1,3 +1,3 @@
-This is my version of the Quiz Master game in Section 4 of the Complete C# Unity Game Developer 2D course on Unity by Gamedev.tv. A link to the course: https://www.udemy.com/share/101Wjs3@gFH0DOABgqYidjd0_KTR6v-U0v1XETrf8OWrpDnE0nQOEJobplSjaARqXyhh33Jo/
+This is my version of "Cube Game" by Brackeys on youtube. A link to the the playlist: https://youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL&si=kKU-r3AR-DD4zVMA
 
 I will be uploading a youtube video of the gameplay soon.
